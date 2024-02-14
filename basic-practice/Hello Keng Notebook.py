@@ -16,3 +16,7 @@ plt.xlabel('Number')
 plt.ylabel('Frequency')
 plt.title('Histogram of Random Numbers')
 plt.show()
+
+# COMMAND ----------
+
+print ("hello cmd 3")
